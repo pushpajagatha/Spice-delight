@@ -1,4 +1,4 @@
-# Akshaya Delight - Project Overview
+# spice Delight - Project Overview
 
 ## Core Technologies
 - **React**: A JavaScript library for building user interfaces. It forms the foundation of the application, allowing for component-based architecture and efficient DOM manipulation.
